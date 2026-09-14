@@ -1,0 +1,50 @@
+# Папки, которые Unity генерирует сама
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Bb]uild/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Кэш Asset Store и пакетов
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Файлы решений и проектов Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# Отчёты о падениях Unity
+sysinfo.txt
+crashlytics-build.properties
+
+# Сборки и архивы
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Мусор операционных систем
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Случайные редиректы (файлы, которые появлялись после опечаток вида `2>null`)
+/null
