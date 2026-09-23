@@ -6,7 +6,10 @@
 
 ## Геймплей
 
-![Геймплей первого уровня](gameplay.gif)
+<video width="640" controls>
+  <source src="Assets/Media/gameplay.mp4" type="video/mp4">
+  Геймплей первого уровня (MP4 вместо GIF).
+</video>
 
 ## Управление (как в референсе)
 
